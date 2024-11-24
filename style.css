@@ -1,0 +1,80 @@
+
+
+
+nav img {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.navbar-brand a {
+    font-size: 50px;
+}
+
+
+
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800 ;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+
+
+
+.carousel img {
+    object-fit: cover;
+    max-width : auto;
+    height : 80vh !important;
+}
+
+
+
+
+.nos_plantes {
+    margin-top: 5em;
+}
+
+
+
+.nos_plantes img {
+    object-fit: cover;
+    max-width : auto;
+    height : 60vh !important;
+    
+}
+
+
+.pagination {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+
+}
+
+
+
+
+
+
+footer {
+
+    margin-top: 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
